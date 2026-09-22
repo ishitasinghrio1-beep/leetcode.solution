@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/0169-majority-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/0169-majority-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ishitasinghrio1-beep/leetcode.solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
 | ------- |
